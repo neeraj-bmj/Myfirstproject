@@ -1,0 +1,27 @@
+*-----note second line is commend and this 
+command runonly in vs code terminal or git bash -----*
+
+1) only for in git bash open vs code
+code .
+
+2) git. file
+git init
+
+3) acctach file
+git remote add origin "file url"
+
+4) stagging
+git add .
+
+5) commiting
+git commit -m "anything"
+
+6) push
+git push origin master 
+
+_________________________________________________
+
+-----------------if master to master then completed file 
+uploaded on github after than open netlify and 
+deploy file publish.
+                                                           ------thank you------
